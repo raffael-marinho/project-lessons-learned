@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  margin-top: 0px;
+  background-color: darkblue;
+}
+
+#nav {
+  background-color: aqua;
+}
+
+#minha_foto {
+    background-color: blueviolet;
+}
+
+#principal {
+    display: flex;
+    background-color: chartreuse;
+
+}
+
+#section {
+  background-color: rgb(226, 0, 215);
+}
+
+#rodape {
+  background-color: blue;
+}
