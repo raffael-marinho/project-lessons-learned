@@ -10,9 +10,13 @@ body {
   width: 100%;
   padding: auto;
   border: rgb(50, 47, 51);
-  margin: 0px;
+  margin: 0;
 }
 
 #minha_foto {
   width: 450px;
+}
+
+#principal {
+  display: flex;
 }
