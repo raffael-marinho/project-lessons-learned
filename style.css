@@ -1,6 +1,9 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: unset;
+  color: black;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 #cabecalho {
@@ -8,11 +11,25 @@ body {
   top: 0;
   background-color: rgba(88, 80, 80, 0.733);
   width: 100%;
-  padding: auto;
+  padding: 10px;
   border: rgb(50, 47, 51);
-  margin: 0px;
+  margin: 10px;
 }
 
 #minha_foto {
   width: 450px;
+}
+
+table , tr , td {
+  border: 1px solid black;
+}
+
+.lado-esquerdo {
+  position: static;
+  left: 0;
+}
+
+.lado-direito {
+  position: static;
+  right: 0;
 }
